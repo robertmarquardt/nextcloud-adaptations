@@ -1,6 +1,6 @@
 # Disable subtitles and jumping icons in Nextcloud 15
 
-I used [Custom CSS](https://apps.nextcloud.com/apps/theming_customcss) and [JSLoader](https://apps.nextcloud.com/apps/jsloader) to adapt the app menu to my preferences.
+[Custom CSS](https://apps.nextcloud.com/apps/theming_customcss) and [JSLoader](https://apps.nextcloud.com/apps/jsloader) are required to adapt the app menu.
 
 ``` css
 /* Disable subtitles and jumping icons */
